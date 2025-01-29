@@ -1,0 +1,21 @@
+{
+    "name": "Goal - Full Stack Developer",
+    "short_name": "Oritro",
+    "description": "Full Stack Developer with 1.2 years of experience in PHP, Python, JavaScript,Typescript and more.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#2563eb",
+    "icons": [
+      {
+        "src": "/android-chrome-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "/android-chrome-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
